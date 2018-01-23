@@ -1,0 +1,11 @@
+# see git-dpm(1) from git-dpm package
+aa456012b683c2e735a106f9c4301e4fc54bf8e4
+aa456012b683c2e735a106f9c4301e4fc54bf8e4
+bce9bebc84b185f8b3c8bdb087efbc470eb33200
+bce9bebc84b185f8b3c8bdb087efbc470eb33200
+cherrypy3_8.9.1.orig.tar.gz
+cc65735f5f95d36136571116849e0de2ea224199
+714010
+debianTag="debian/%e%v"
+patchedTag="patched/%e%v"
+upstreamTag="upstream/%e%u"
